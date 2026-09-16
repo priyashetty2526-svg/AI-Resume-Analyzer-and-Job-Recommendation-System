@@ -1,0 +1,24 @@
+AI Resume Analyzer and Job Recommendation System
+
+        Resume Upload
+        (PDF / DOCX)
+              ↓
+        Text Extraction
+              ↓
+     Text Cleaning & Normalization
+              ↓
+        Skill Extraction
+              ↓
+      Job Role Requirements
+              ↓
+    TF-IDF + Cosine Similarity
+              ↓
+          Match Scores
+              ↓
+       Top 3 Suitable Roles
+              ↓
+         Missing Skills
+              ↓
+       Learning Roadmap
+              ↓
+       Streamlit Dashboard

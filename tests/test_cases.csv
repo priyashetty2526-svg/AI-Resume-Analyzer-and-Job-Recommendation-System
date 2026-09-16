@@ -1,0 +1,6 @@
+test_case,input,expected_output,status
+TC01,Valid PDF resume,Resume text extracted,Pass
+TC02,Valid DOCX resume,Resume text extracted,Pass
+TC03,Resume with Python and SQL,Skills detected correctly,Passs
+TC04,Resume matching Data Analyst,Data Analyst appears in suitable roles,Pass
+TC05,Resume missing required skills,Missing skills displayed,Pass
